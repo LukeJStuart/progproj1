@@ -1,0 +1,57 @@
+// CSS document for the whole of the website
+
+
+.header
+{
+	width: 100%;
+	padding: 0px;
+}
+
+.headerimg
+{
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+
+.square 
+{
+	height: 100px;
+	width: 100%;
+	background-color: #679;
+}
+
+.trapezoid
+{
+	border-top: 30px solid #679;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 270px;
+}
+
+ul
+{
+    margin-left: 250px;
+	margin-top: 13px;
+	padding-top: 20px;
+	width: 70%;
+	float: left;
+    overflow: hidden;
+	list-style-type: none;
+}
+
+li
+{
+	float: left;
+	display: inline-block;
+	font-size: 1.2em;
+	text-align: center;
+	width: 15%;
+	color: white;
+	padding: 5px 10px 5px 10px;
+}
+
+.content
+{
+	
+}
